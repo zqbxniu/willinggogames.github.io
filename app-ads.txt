@@ -1988,3 +1988,7 @@ triplelift.com, 14798, RESELLER, 6c33edb13117fd86
 pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
 #unity new end 260605
+
+#admob mure start 20260621
+google.com, pub-9354762159934030, DIRECT, f08c47fec0942fa0
+#admob mure end 20260621
